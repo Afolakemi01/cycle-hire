@@ -1,0 +1,23 @@
+hire_id,hire_date,station,duration_minutes,rider_type
+H1001,2026-11-02,Piccadilly Gardens,18,member
+H1002,2026-11-02,  salford quays ,25,casual
+H1003,2026-11-02,Deansgate,abc,member
+H1004,2026-11-03,Oxford Road,42,Member
+H1005,2026-11-03,Piccadilly Gardens,-5,casual
+,2026-11-03,Deansgate,12,member
+H1006,2026-11-03,DEANSGATE,30,casual
+H1007,2026-11-31,Salford Quays,15,member
+H1002,2026-11-04,Salford Quays,20,member
+H1008,2026-11-04,Oxford Road,0,member
+H1009,2026-11-04,,22,casual
+H1010,2026-11-04,Piccadilly Gardens,2000,casual
+H1011,2026-11-05,oxford road,35,casual
+H1012,2026-11-05,Salford Quays,12.5,member
+H1013,2026-11-05,Piccadilly Gardens,9,staff
+H1014,2026-11-05,Deansgate, 48 ,member
+H1015,2026-11-06,Piccadilly Gardens,27,CASUAL
+H1016,06/11/2026,Oxford Road,19,member
+H1017,2026-11-06,Salford Quays,1440,casual
+H1018,2026-11-06,Piccadilly Gardens,1441,member
+H1005,2026-11-07,Deansgate,16,member
+ H1019 ,2026-11-07,Oxford Road,21,casual

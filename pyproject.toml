@@ -1,0 +1,22 @@
+[project]
+name = "cycle-hire"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[tool.setuptools]
+packages = ["cycle_hire"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+[tool.ruff]
+exclude = [".venv"]
+
+[project.scripts]
+cycle-hire = "cycle_hire.cycle_hire:main"
